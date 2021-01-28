@@ -9,7 +9,7 @@ See project Color Palette App
 Add this line to your application's ide:
 
 ```ruby
-git clone git@github.com:shoudto/craft_beers.git
+git clone https://github.com/shoudto/Color-Project-App.git
 ```
 
 And then execute:
