@@ -18,5 +18,5 @@ And then execute:
 
 ## Usage
 
-In this application you will be able to generate random colors or create a custom color by setting up the color, saturation, and hue. As well as able to copy and paste by clicking the color hex. There has been a local library created to able to save a set of colors and provide a name for the set.
+In this application you will be able to generate random colors or create a custom color by setting up the color, saturation, and hue. The user is able to copy and paste by clicking the color hex. There is a local library created to save sets of colors and provide a name for the set.
 
